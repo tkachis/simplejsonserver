@@ -1,6 +1,0 @@
-{
-  "Todo": {
-    "text": "string",
-    "completed": "boolean",
-  }
-}
