@@ -1,7 +1,0 @@
-{
-  "todos": [
-    { "id": 1, "text": "Post 1", isComplete: true },
-    { "id": 2, "text": "Post 2", isComplete: false },
-    { "id": 3, "text": "Post 3", isComplete: false }
-  ]
-}
